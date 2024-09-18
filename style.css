@@ -1,0 +1,83 @@
+*{
+    font-family: Calibri;
+    margin: 0;
+    font-size: 20px;
+}
+
+.tresc{
+    text-align: center;
+}
+
+.naglowek_zdanie{
+    background-color: rgb(63, 63, 63);
+    color: white;
+    font-size: 60px;
+    letter-spacing: 3px;
+    padding: 10px;
+}
+
+.naglowek_zdj{
+    background-color: rgb(95, 95, 95);
+    margin: 0px 200px 0px 200px;
+    padding: 50px;
+    border-radius: 8px;
+}
+
+hr{
+    height: 3px;
+    background-color: rgb(63, 63, 63);
+}
+
+.hr1{
+    margin: 0px 200px 0px 200px;
+    height: 3px;
+    background-color: rgb(63, 63, 63);
+}
+
+th{
+    background-color: rgb(114, 114, 114);
+}
+
+td{
+    height: 40px;
+    font-size: 22px;
+    border: 1px solid black;
+	border-collapse: collapse;
+}
+
+table{
+    border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.td1{
+    text-align: left;
+    width: 200px;
+    border: none;
+}
+
+.th1{
+    height: 40px;
+    font-size: 22px;
+    border: 1px solid black;
+	border-collapse: collapse;
+}
+
+input{
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+button{
+    width: 170px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(197, 197, 197);
+}
+
+button:hover{
+    background-color: gray;
+    cursor: pointer;
+}
